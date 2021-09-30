@@ -1,0 +1,8 @@
+
+$author[Ellie™ | Sistema de Banimento]
+$authorIcon[$userAvatar[$botID]]
+$color[000000]
+$footer[Comando Executdo por: $username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$description[
